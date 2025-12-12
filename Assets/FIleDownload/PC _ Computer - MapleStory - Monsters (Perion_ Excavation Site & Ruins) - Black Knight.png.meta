@@ -1,0 +1,1894 @@
+fileFormatVersion: 2
+guid: 63d274e3425872e40a40531c4293ed32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7010948912947482246
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_0
+  - first:
+      213: -7027776565441219009
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_1
+  - first:
+      213: -3774403016270541139
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_2
+  - first:
+      213: 2049624112889727044
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_3
+  - first:
+      213: -7349387620142336096
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_4
+  - first:
+      213: 3482734637079835238
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_5
+  - first:
+      213: -6383826470538052114
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_6
+  - first:
+      213: 3186992797624472645
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_7
+  - first:
+      213: -8415757874888275381
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_8
+  - first:
+      213: 175901327779094281
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_9
+  - first:
+      213: -8497256626517942780
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_10
+  - first:
+      213: 8879843942405406058
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_11
+  - first:
+      213: 2671489045152964092
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_12
+  - first:
+      213: 8846391214447425514
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_13
+  - first:
+      213: 4853258030271660125
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_14
+  - first:
+      213: 6335513829957408798
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_15
+  - first:
+      213: -868014861272373048
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_16
+  - first:
+      213: 1597281764755322578
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_17
+  - first:
+      213: 1757949278254200993
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_18
+  - first:
+      213: 4320860870432714521
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_19
+  - first:
+      213: -8527526580413840355
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_20
+  - first:
+      213: 7249393378102558561
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_21
+  - first:
+      213: 5833341173723401503
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_22
+  - first:
+      213: -2652225601097081099
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_23
+  - first:
+      213: -3172377368941083939
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_24
+  - first:
+      213: -1246185957966245904
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_25
+  - first:
+      213: -8216638824611790083
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_26
+  - first:
+      213: -7440288761882128181
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_27
+  - first:
+      213: -3922678022338951094
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_28
+  - first:
+      213: -5942649960460007807
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_29
+  - first:
+      213: 1657126079113492650
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_30
+  - first:
+      213: 5302725366241281640
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_31
+  - first:
+      213: 7706643019659993431
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_32
+  - first:
+      213: -1936743252817087269
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_33
+  - first:
+      213: -208116967618438181
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_34
+  - first:
+      213: -8278661737046560799
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_35
+  - first:
+      213: -4238719578763841694
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_36
+  - first:
+      213: 4321330926177310689
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_37
+  - first:
+      213: 6708839072628607122
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_38
+  - first:
+      213: -911550506589715371
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_39
+  - first:
+      213: 6541974070429883107
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_40
+  - first:
+      213: 2251957886472744904
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_41
+  - first:
+      213: 6116742558257210528
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_42
+  - first:
+      213: -4473624634736466357
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_43
+  - first:
+      213: -5390852513904558394
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_44
+  - first:
+      213: -5129528163904197110
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_45
+  - first:
+      213: 2156943256623828554
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_46
+  - first:
+      213: 2652157539553011629
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_47
+  - first:
+      213: -5576183190665829868
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_48
+  - first:
+      213: -863851297377847859
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_49
+  - first:
+      213: -4187975480059590334
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_50
+  - first:
+      213: 2420585842619551767
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_51
+  - first:
+      213: 9181466871796845391
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_52
+  - first:
+      213: -4413197512172880851
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_53
+  - first:
+      213: 5304178022133196180
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_54
+  - first:
+      213: 6594627853170375549
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_55
+  - first:
+      213: -5080725378606053032
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_56
+  - first:
+      213: 1803490566049331466
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_57
+  - first:
+      213: -6457578027362566123
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_58
+  - first:
+      213: -4046699106398162890
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_59
+  - first:
+      213: 8296195979130708207
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_60
+  - first:
+      213: 7070308042865703326
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_61
+  - first:
+      213: -630667916883990973
+    second: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+      - Black Knight_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 843
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e45a604e4eb4160800000000000000
+      internalID: 7010948912947482246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 843
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36bf00d272587e90800000000000000
+      internalID: -7027776565441219009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 843
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae08005470ae9bc0800000000000000
+      internalID: -3774403016270541139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 843
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4480ed3754ab17c10800000000000000
+      internalID: 2049624112889727044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 843
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a733c0f5eab10a90800000000000000
+      internalID: -7349387620142336096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 843
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662b71a33b8255030800000000000000
+      internalID: 3482734637079835238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 746
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf7d3e5a71867a0800000000000000
+      internalID: -6383826470538052114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 746
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544922460197a3c20800000000000000
+      internalID: 3186992797624472645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 746
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a86972dc8353b80800000000000000
+      internalID: -8415757874888275381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 746
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fdacd535de07200800000000000000
+      internalID: 175901327779094281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 746
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e501b5e1ea31a80800000000000000
+      internalID: -8497256626517942780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 746
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d7af7a40b8b3b70800000000000000
+      internalID: 8879843942405406058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 639
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd90b5e129031520800000000000000
+      internalID: 2671489045152964092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 520
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7764970f1b4ca70800000000000000
+      internalID: 8846391214447425514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 520
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5087a1077c3a5340800000000000000
+      internalID: 4853258030271660125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 520
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e189f28e2444ce750800000000000000
+      internalID: 6335513829957408798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_16
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 520
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a916251134f3f0800000000000000
+      internalID: -868014861272373048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 520
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d633726d4faa2610800000000000000
+      internalID: 1597281764755322578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 520
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8fe77fd8d756810800000000000000
+      internalID: 1757949278254200993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_19
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 520
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fe60a9118c6fb30800000000000000
+      internalID: 4320860870432714521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_20
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 520
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144bb181c328a980800000000000000
+      internalID: -8527526580413840355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_21
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 520
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f3fd25ed40b9460800000000000000
+      internalID: 7249393378102558561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 368
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d817124e034f050800000000000000
+      internalID: 5833341173723401503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 368
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe596e2ed6613bd0800000000000000
+      internalID: -2652225601097081099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 368
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd247c6479379f3d0800000000000000
+      internalID: -3172377368941083939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 368
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff875b4978a4bee0800000000000000
+      internalID: -1246185957966245904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 368
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2c45bc582a8fd80800000000000000
+      internalID: -8216638824611790083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 368
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc05fa99ac8ceb890800000000000000
+      internalID: -7440288761882128181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_28
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 368
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4841463f19df89c0800000000000000
+      internalID: -3922678022338951094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 368
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186ca42b857778da0800000000000000
+      internalID: -5942649960460007807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_30
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 368
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8789d936b4ff610800000000000000
+      internalID: 1657126079113492650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_31
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 368
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866c34420a0179940800000000000000
+      internalID: 5302725366241281640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_32
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 368
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751e39daefe73fa60800000000000000
+      internalID: 7706643019659993431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_33
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 368
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4f3bad54e4f15e0800000000000000
+      internalID: -1936743252817087269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb1f5978be9c1df0800000000000000
+      internalID: -208116967618438181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 232
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efa8bb23094c1d80800000000000000
+      internalID: -8278661737046560799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa945300b0d25c0800000000000000
+      internalID: -4238719578763841694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 104
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e755bbf49378fb30800000000000000
+      internalID: 4321330926177310689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_38
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 106
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2980a4377959a1d50800000000000000
+      internalID: 6708839072628607122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 111
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55484e3d4a58953f0800000000000000
+      internalID: -911550506589715371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_40
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 110
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea1ac591c2c9ca50800000000000000
+      internalID: 6541974070429883107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_41
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 125
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfe85034cf804f10800000000000000
+      internalID: 2251957886472744904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_42
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 114
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a46f67e2f803e450800000000000000
+      internalID: 6116742558257210528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a814d81e7ae1c0800000000000000
+      internalID: -4473624634736466357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_44
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 151
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce72385338df25b0800000000000000
+      internalID: -5390852513904558394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 114
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee025ff4140d8b0800000000000000
+      internalID: -5129528163904197110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 119
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eccb3c6700fed10800000000000000
+      internalID: 2156943256623828554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76e610b3b5ec420800000000000000
+      internalID: 2652157539553011629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ebd59eea6d92b0800000000000000
+      internalID: -5576183190665829868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 43
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5780962dbf204f0800000000000000
+      internalID: -863851297377847859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 43
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249800f5d7251e5c0800000000000000
+      internalID: -4187975480059590334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 46
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7109da1cff5a79120800000000000000
+      internalID: 2420585842619551767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_52
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bc772797f1b6f70800000000000000
+      internalID: 9181466871796845391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 46
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c3c4bae3c21c2c0800000000000000
+      internalID: -4413197512172880851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495eea2fec93c9940800000000000000
+      internalID: 5304178022133196180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bfd16b713d48b50800000000000000
+      internalID: 6594627853170375549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859cfdedf23ad79b0800000000000000
+      internalID: -5080725378606053032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0973215d19470910800000000000000
+      internalID: 1803490566049331466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 27
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510cfa17ff21266a0800000000000000
+      internalID: -6457578027362566123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 27
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6303f326a9c37d7c0800000000000000
+      internalID: -4046699106398162890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02c13b942022370800000000000000
+      internalID: 8296195979130708207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 27
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99f89374b7ce1260800000000000000
+      internalID: 7070308042865703326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins)
+        - Black Knight_62
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346e4eafeda6f37f0800000000000000
+      internalID: -630667916883990973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_0: 7010948912947482246
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_1: -7027776565441219009
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_10: -8497256626517942780
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_11: 8879843942405406058
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_12: 2671489045152964092
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_13: 8846391214447425514
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_14: 4853258030271660125
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_15: 6335513829957408798
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_16: -868014861272373048
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_17: 1597281764755322578
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_18: 1757949278254200993
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_19: 4320860870432714521
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_2: -3774403016270541139
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_20: -8527526580413840355
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_21: 7249393378102558561
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_22: 5833341173723401503
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_23: -2652225601097081099
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_24: -3172377368941083939
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_25: -1246185957966245904
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_26: -8216638824611790083
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_27: -7440288761882128181
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_28: -3922678022338951094
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_29: -5942649960460007807
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_3: 2049624112889727044
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_30: 1657126079113492650
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_31: 5302725366241281640
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_32: 7706643019659993431
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_33: -1936743252817087269
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_34: -208116967618438181
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_35: -8278661737046560799
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_36: -4238719578763841694
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_37: 4321330926177310689
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_38: 6708839072628607122
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_39: -911550506589715371
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_4: -7349387620142336096
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_40: 6541974070429883107
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_41: 2251957886472744904
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_42: 6116742558257210528
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_43: -4473624634736466357
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_44: -5390852513904558394
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_45: -5129528163904197110
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_46: 2156943256623828554
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_47: 2652157539553011629
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_48: -5576183190665829868
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_49: -863851297377847859
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_5: 3482734637079835238
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_50: -4187975480059590334
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_51: 2420585842619551767
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_52: 9181466871796845391
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_53: -4413197512172880851
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_54: 5304178022133196180
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_55: 6594627853170375549
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_56: -5080725378606053032
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_57: 1803490566049331466
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_58: -6457578027362566123
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_59: -4046699106398162890
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_6: -6383826470538052114
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_60: 8296195979130708207
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_61: 7070308042865703326
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_62: -630667916883990973
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_7: 3186992797624472645
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_8: -8415757874888275381
+      PC _ Computer - MapleStory - Monsters (Perion_ Excavation Site & Ruins) - Black Knight_9: 175901327779094281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

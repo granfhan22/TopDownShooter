@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 27b13f7ff6ffd0443bec33b1191b8f05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 137099728710987380
+    second: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eee941a7317e100800000000000000
+      internalID: 137099728710987380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 342
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3dc4e7a93a7d44991995f17257a98
+      internalID: -1482686083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 342
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9c99380091652419d87cae05867f70
+      internalID: -688136589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 342
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afbfa7f8053364aa814728884d0b49
+      internalID: 708575412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 342
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94335cdc3079004197433b4bab88999
+      internalID: 1802659116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 342
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f6b88fd02cd67458de401f70802294
+      internalID: 1388587271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ef9f940fe45de429f039c2a5fd31f2
+      internalID: -379510272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 268
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542bc8b0cf46f943bfc5a26f683bfb5
+      internalID: -931306643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 268
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a511012e9def488109594554eb413
+      internalID: 582678813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 268
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7def30b755016b34e9e503b7a96faccc
+      internalID: -1939884862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 268
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a6abacbfac744ab95478c374f2c75
+      internalID: 231912977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 268
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e8ee3052a84a45839e45bbdb702a4
+      internalID: 1063621887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648667e095358c2449ed84198f45a548
+      internalID: 1585626507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 194
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b906b91ea0baaf44af4076ff7bff62e
+      internalID: -196726511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 194
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c00c779fb499043ad460c4c514490a
+      internalID: -1670932659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 194
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b953ff295be37f247a86e2e6d7b7c39e
+      internalID: 1276938108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 194
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83072c05f5ed9204fb6a2f4f4a8fe89f
+      internalID: 1760394288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 194
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c37b3717fda01e49b99c5919257a885
+      internalID: -291325784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44baeef72aab9f14494a43e1925495e5
+      internalID: 1876122347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 120
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30685674f45a70d4ba3c6ce66f82dadd
+      internalID: 1615576689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 120
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5df6e2484fb82a4cb72def28b255017
+      internalID: -1761511760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 120
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0875fd09fddaff41a3e0cd6694d691f
+      internalID: 380659873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 120
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a961685b0958ff4aa0b5abc1d6b497a
+      internalID: 864793360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 120
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4a7e8c9ec56746967d0f8a5c8dcf6
+      internalID: -1146918736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7b28ab80c93e449216b6f01a3dbe1
+      internalID: -300722428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 46
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5310d904cb2464fba9af1db981fc6d
+      internalID: 1060136414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 46
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954de2add2d28b643a1fabb308298d5e
+      internalID: -1644216401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 46
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d60bdea0ecb7428db15cfc1a08986
+      internalID: -1013375070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 46
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed956d810275f4191a8d73cde4d07f
+      internalID: 339387687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 46
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ea474e97628b848b07c72dc8a0f5a2
+      internalID: -421386556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eb96429a220ef1547ae75f9f43e12c83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":95.0,"y":74.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_0: 137099728710987380
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_1: -1482686083
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_10: 231912977
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_11: 1063621887
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_12: 1585626507
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_13: -196726511
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_14: -1670932659
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_15: 1276938108
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_16: 1760394288
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_17: -291325784
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_18: 1876122347
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_19: 1615576689
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_2: -688136589
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_20: -1761511760
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_21: 380659873
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_22: 864793360
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_23: -1146918736
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_24: -300722428
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_25: 1060136414
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_26: -1644216401
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_27: -1013375070
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_28: 339387687
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_29: -421386556
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_3: 708575412
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_4: 1802659116
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_5: 1388587271
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_6: -379510272
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_7: -931306643
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_8: 582678813
+      PC _ Computer - MapleStory - Monsters (Perion) - Fire Boar_9: -1939884862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

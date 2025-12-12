@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 875d47ccfbd852148bf775a62a404f98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8437009257017477753
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_0
+  - first:
+      213: -6530813573221949168
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_1
+  - first:
+      213: 5664399800059986705
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_2
+  - first:
+      213: 2884705049909257649
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_3
+  - first:
+      213: -4020072889571943557
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_4
+  - first:
+      213: -824724972000009297
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_5
+  - first:
+      213: 3511363604255712098
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_6
+  - first:
+      213: -3914796020107689890
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_7
+  - first:
+      213: -4676817015108045179
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_8
+  - first:
+      213: 6937126401683973517
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_9
+  - first:
+      213: -3719478324389087423
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_10
+  - first:
+      213: -456560686061823836
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_11
+  - first:
+      213: -6018499301624544959
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_12
+  - first:
+      213: 5710134328385850441
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_13
+  - first:
+      213: 7160584420783149809
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_14
+  - first:
+      213: 2934442177564420502
+    second: PC _ Computer - Stardew Valley - Animals - Bigfoot_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8533d737461570800000000000000
+      internalID: 8437009257017477753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0116ec928a3ed55a0800000000000000
+      internalID: -6530813573221949168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1138e5c5b9dfb9e40800000000000000
+      internalID: 5664399800059986705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 79
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5ed9585f7880820800000000000000
+      internalID: 2884705049909257649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 79
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd2e59105d538c0800000000000000
+      internalID: -4020072889571943557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3ab8ee10dfd84f0800000000000000
+      internalID: -824724972000009297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 79
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263a5e4189edab030800000000000000
+      internalID: 3511363604255712098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 79
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e504e5dd2c9dba9c0800000000000000
+      internalID: -3914796020107689890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867bfe14bb981fb0800000000000000
+      internalID: -4676817015108045179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d856b5635bf954060800000000000000
+      internalID: 6937126401683973517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f50dab22c16cc0800000000000000
+      internalID: -3719478324389087423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a850e89978f9a9f0800000000000000
+      internalID: -456560686061823836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 31
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1418bb5c5cef97ca0800000000000000
+      internalID: -6018499301624544959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc3370be87e3f40800000000000000
+      internalID: 5710134328385850441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d9f0a7918f5360800000000000000
+      internalID: 7160584420783149809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Bigfoot_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 31
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699a6a7fc9b39b820800000000000000
+      internalID: 2934442177564420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_0: 8437009257017477753
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_1: -6530813573221949168
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_10: -3719478324389087423
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_11: -456560686061823836
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_12: -6018499301624544959
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_13: 5710134328385850441
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_14: 7160584420783149809
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_15: 2934442177564420502
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_2: 5664399800059986705
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_3: 2884705049909257649
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_4: -4020072889571943557
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_5: -824724972000009297
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_6: 3511363604255712098
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_7: -3914796020107689890
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_8: -4676817015108045179
+      PC _ Computer - Stardew Valley - Animals - Bigfoot_9: 6937126401683973517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
