@@ -25,10 +25,17 @@ A simple 2D top-down action survival game built with **Unity 2022+** using the n
 | Open Skill Tree   | K (or UI button)               |
 
 *(Controls can be customized via Input Actions)*
+
 ## Gameplay Screenshots
-##MainMenu:
+##MainMenu
+
+
 <img width="662" height="366" alt="image" src="https://github.com/user-attachments/assets/bd42f609-005d-4c40-8a56-101a84323c38" />
+
+
 ##GamePlay:
+
+
 <img width="660" height="368" alt="image" src="https://github.com/user-attachments/assets/8cf9c486-91f7-40f7-a4b3-2c4f34199c4e" />
 <img width="666" height="367" alt="image" src="https://github.com/user-attachments/assets/679fc0ab-36a1-46eb-96f2-17389f85e5d3" />
 <img width="666" height="373" alt="image" src="https://github.com/user-attachments/assets/2eb701db-e116-461e-8bab-2c8d1a8185e4" />
