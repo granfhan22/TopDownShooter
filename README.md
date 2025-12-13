@@ -55,4 +55,4 @@ System Requirements
    git clone https://github.com/yourusername/TopDown-Survivor.git
 2. Open the project folder in Unity Hub → Add → select the cloned folder
 3. Open Assets/Scenes/Home.unity
-Press Play to test the game
+4. Press Play to test the game
